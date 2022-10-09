@@ -11,7 +11,7 @@
 <p align="center">
 <a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-XYNOZ-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
-## ```Call Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
+```Call Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
   <a href="https://wa.me/6283939200413">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
