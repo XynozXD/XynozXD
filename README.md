@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/8d74c5c9617c4b9dfc5d6.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://i.pinimg.com/originals/bc/64/50/bc645042f475fa7937cac88aa68f9131.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">XynozXD</h1>
 <p align="center">
